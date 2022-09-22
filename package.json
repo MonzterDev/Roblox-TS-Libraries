@@ -1,8 +1,10 @@
 {
   "name": "@rbxts/format-number",
-  "version": "3.0.0b3",
+  "version": "3.0.6b3",
   "description": "",
-  "main": "out/init.lua",
+  "main": "src/init.lua",
+  "types": "src/index.d.ts",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,10 +15,12 @@
   ],
   "author": "Monzter",
   "license": "Apache-2.0",
-  "types": "out/index.d.ts",
   "files": [
-    "src",
-    "index.d.ts"
+    "src/init.lua",
+    "src/index.d.ts",
+    "src/config.lua",
+    "src/_aux.lua",
+    "src/DoubleConversion"
   ],
   "publishConfig": {
     "access": "public"
