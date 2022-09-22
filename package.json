@@ -1,0 +1,29 @@
+{
+  "name": "@rbxts/format-number",
+  "version": "3.0.0b3",
+  "description": "",
+  "main": "out/init.lua",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rbxts",
+    "format-number",
+    "roblox"
+  ],
+  "author": "Monzter",
+  "license": "Apache-2.0",
+  "types": "out/index.d.ts",
+  "files": [
+    "src",
+    "index.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.3.3-types.1",
+    "@rbxts/types": "^1.0.642",
+    "typescript": "^4.8.3"
+  }
+}
