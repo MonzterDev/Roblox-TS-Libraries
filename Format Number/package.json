@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/format-number",
-  "version": "3.0.8b3",
+  "version": "3.0.9b3",
   "description": "",
   "main": "src/init.lua",
   "types": "src/index.d.ts",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MonzterDev/Format-Number-TS"
+    "url": "https://github.com/MonzterDev/Roblox-TS-Libraries/tree/main/Format%20Number"
   },
   "publishConfig": {
     "access": "public"
