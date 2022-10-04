@@ -1,4 +1,4 @@
-# Format-Number-TS
+# Viewport-Model-TS
 
 This contains the typing for [EgoMoose's Viewport Model](https://gist.github.com/EgoMoose/2fd62ee98754380f6d839267ffe4f588)
 

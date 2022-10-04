@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/viewport-model",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Typings of Lua class to calculate camera distance/cframe for fitting models into viewport frames",
   "main": "src/init.lua",
   "types": "src/index.d.ts",
