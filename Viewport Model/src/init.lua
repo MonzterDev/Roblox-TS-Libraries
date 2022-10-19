@@ -99,7 +99,6 @@ function ViewportModelClass.GenerateViewport(viewportFrame: ViewportFrame, model
 		viewportFrame.CurrentCamera = camera
 	end
 
-	model = model:Clone()
 	model.Parent = viewportFrame
 
 	local vpmClass = ViewportModelClass.new(viewportFrame, camera)
